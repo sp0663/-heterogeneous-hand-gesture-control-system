@@ -3,14 +3,14 @@ import serial
 import time
 from hand_tracker import HandTracker
 
-SERIAL_PORT = "COM5"        # change to your port e.g. "/dev/ttyUSB0" on Linux
+SERIAL_PORT = "COM7"        # change to your port e.g. "/dev/ttyUSB0" on Linux
 BAUD_RATE = 115200
-ACK_TIMEOUT = 2.0           # seconds to wait for gesture ID back
+ACK_TIMEOUT = 0.1          # seconds to wait for gesture ID back
 
 tracker = HandTracker()
 cap = cv2.VideoCapture(0)
 
-ser = serial.Serial(SERIAL_PORT, BAUD_RATE, timeout=ACK_TIMEOUT)
+ser = serial.Serial(SERIAL_PORT, BAUD_RATE, timeout = ACK_TIMEOUT)
 time.sleep(2)  # let FPGA/USB-UART settle after port open
 
 def build_frame_bytes(landmarks):
