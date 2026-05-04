@@ -1,0 +1,8 @@
+LIBRARIES USED
+
+opencv-python>=4.5.0
+mediapipe>=0.10.0
+pynput>=1.7.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+tkinter

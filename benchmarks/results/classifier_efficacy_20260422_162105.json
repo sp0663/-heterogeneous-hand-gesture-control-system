@@ -1,0 +1,1494 @@
+{
+  "metadata": {
+    "dataset": "/home/dsd/Downloads/comparative_benchmarks/data/static_gesture_dataset.json",
+    "total_samples": 200,
+    "mode": "software",
+    "fpga_backend": "software_replica",
+    "classes": [
+      "fist",
+      "open_palm",
+      "index_finger",
+      "pinch"
+    ]
+  },
+  "per_sample": [
+    {
+      "sample_id": "fist_0035",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.4066,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0044",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.4212,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0039",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3827,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0034",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3587,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0046",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.4042,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0005",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3851,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0045",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3885,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0040",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3849,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0042",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3838,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0047",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3529,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0000",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3791,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0024",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3745,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0003",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3456,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0035",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3763,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0026",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3829,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0042",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3447,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0010",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3397,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0020",
+      "true_label": "index_finger",
+      "sw_prediction": "index_finger",
+      "sw_latency_ms": 0.3676,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0029",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3769,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0006",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.367,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0003",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3968,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0047",
+      "true_label": "pinch",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3657,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0022",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3962,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0014",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3376,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0018",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3854,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0027",
+      "true_label": "pinch",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3343,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0005",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3616,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0024",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3319,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0016",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3606,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0042",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.39,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0049",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3325,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0010",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3578,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0025",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3295,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0001",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3822,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0018",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3564,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0016",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3847,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0037",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.357,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0004",
+      "true_label": "pinch",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3567,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0041",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3558,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0024",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.346,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0026",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3409,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0048",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3462,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0008",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3524,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0029",
+      "true_label": "pinch",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.323,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0032",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3769,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0041",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3231,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0028",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3543,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0023",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3514,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0017",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3519,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0046",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3454,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0011",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3515,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0045",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3683,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0007",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3811,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0016",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3216,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0027",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3216,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0024",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3371,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0030",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3529,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0037",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3486,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0016",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3494,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0033",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3222,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0049",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3478,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0009",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3502,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0028",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3891,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0021",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3223,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0011",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3513,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0002",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3211,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0029",
+      "true_label": "index_finger",
+      "sw_prediction": "index_finger",
+      "sw_latency_ms": 0.3437,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0026",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3372,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0017",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3183,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0034",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3434,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0025",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3488,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0039",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3209,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0005",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3478,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0012",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.37,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0039",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3386,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0031",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3179,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0001",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3191,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0009",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3559,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0049",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3487,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0015",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3488,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0041",
+      "true_label": "pinch",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.319,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0037",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3216,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0013",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3462,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0008",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.367,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0021",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3726,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0017",
+      "true_label": "pinch",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.319,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0001",
+      "true_label": "index_finger",
+      "sw_prediction": "index_finger",
+      "sw_latency_ms": 0.3459,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0025",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3392,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0007",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3454,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0035",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3454,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0029",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3204,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0009",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3181,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0004",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3429,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0002",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3629,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0032",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3126,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0049",
+      "true_label": "pinch",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3389,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0002",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3438,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0000",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3342,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0022",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3159,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0015",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3633,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0043",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3642,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0000",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.364,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0027",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.347,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0033",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3435,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0033",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3335,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0010",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3279,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0038",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3436,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0037",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3464,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0015",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3462,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0040",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3359,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0048",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3443,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0038",
+      "true_label": "index_finger",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3457,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0019",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3349,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0006",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3437,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0043",
+      "true_label": "index_finger",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3453,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0036",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3143,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0032",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3419,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0006",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3362,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0047",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3434,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0034",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.339,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0040",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3427,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0036",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3632,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0004",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3126,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0006",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3553,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0021",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3435,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0045",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3417,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0015",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3144,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0048",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3413,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0043",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3149,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0011",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3369,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0044",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3467,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0007",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3153,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0043",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3381,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0014",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3395,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0010",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3397,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0012",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3057,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0038",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3101,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0044",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3415,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0000",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3362,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0001",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3414,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0048",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3572,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0003",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3403,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0003",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3407,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0031",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3459,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0036",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3389,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0031",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3681,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0027",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3411,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0022",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3358,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0034",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3319,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0030",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3416,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0008",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3383,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0002",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3588,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0026",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3378,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0041",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3698,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0025",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3388,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0021",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3406,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0014",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3406,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0047",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3413,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0042",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.338,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0014",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3648,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0011",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3132,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0019",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3366,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0020",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3552,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0019",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3353,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0023",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3397,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0030",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3133,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0004",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.334,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0020",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3344,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0022",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3424,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0012",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3348,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0028",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3109,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0008",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3102,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0033",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3688,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0009",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3397,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0020",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3393,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0023",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3071,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0028",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.339,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "index_finger_0019",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3372,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0040",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3414,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0012",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3867,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0046",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3414,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0017",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3389,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0030",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3343,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0007",
+      "true_label": "index_finger",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3356,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0005",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3331,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0023",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3337,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0013",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3393,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0031",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3632,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0044",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3136,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0013",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3302,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0035",
+      "true_label": "pinch",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3052,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0013",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3407,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "fist_0018",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3424,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "pinch_0038",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3636,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "index_finger_0045",
+      "true_label": "index_finger",
+      "sw_prediction": "index_finger",
+      "sw_latency_ms": 0.3435,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "fist_0046",
+      "true_label": "fist",
+      "sw_prediction": "fist",
+      "sw_latency_ms": 0.3146,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0036",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3582,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "open_palm_0032",
+      "true_label": "open_palm",
+      "sw_prediction": "unknown",
+      "sw_latency_ms": 0.3418,
+      "sw_correct": 0
+    },
+    {
+      "sample_id": "pinch_0018",
+      "true_label": "pinch",
+      "sw_prediction": "pinch",
+      "sw_latency_ms": 0.3356,
+      "sw_correct": 1
+    },
+    {
+      "sample_id": "open_palm_0039",
+      "true_label": "open_palm",
+      "sw_prediction": "open_palm",
+      "sw_latency_ms": 0.3324,
+      "sw_correct": 1
+    }
+  ],
+  "software_classifier": {
+    "confusion_matrix": [
+      [
+        50,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        19,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        4,
+        0
+      ],
+      [
+        5,
+        0,
+        0,
+        42
+      ]
+    ],
+    "metrics": {
+      "per_class": {
+        "fist": {
+          "tp": 50,
+          "fp": 5,
+          "fn": 0,
+          "precision": 0.9091,
+          "recall": 1.0,
+          "f1_score": 0.9524
+        },
+        "open_palm": {
+          "tp": 19,
+          "fp": 2,
+          "fn": 0,
+          "precision": 0.9048,
+          "recall": 1.0,
+          "f1_score": 0.95
+        },
+        "index_finger": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 2,
+          "precision": 1.0,
+          "recall": 0.6667,
+          "f1_score": 0.8
+        },
+        "pinch": {
+          "tp": 42,
+          "fp": 0,
+          "fn": 5,
+          "precision": 1.0,
+          "recall": 0.8936,
+          "f1_score": 0.9438
+        }
+      },
+      "accuracy": 0.9426,
+      "macro_precision": 0.9535,
+      "macro_recall": 0.8901,
+      "macro_f1": 0.9116,
+      "weighted_precision": 0.9479,
+      "weighted_recall": 0.9426,
+      "weighted_f1": 0.9412,
+      "support": {
+        "fist": 50,
+        "open_palm": 19,
+        "index_finger": 6,
+        "pinch": 47
+      }
+    },
+    "mean_latency_ms": 0.3458
+  }
+}
